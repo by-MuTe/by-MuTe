@@ -25,10 +25,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=by-mute&" alt="by-mute" /></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/by-MuTe/by-MuTe/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/by-MuTe/by-MuTe/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/by-MuTe/by-MuTe/output/github-contribution-grid-snake.svg">
 </picture>
-
-![snake gif](https://github.com/by-MuTe/by-MuTe/blob/output/github-contribution-grid-snake.svg)
 
