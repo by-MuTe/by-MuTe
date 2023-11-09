@@ -1,4 +1,4 @@
-[![MasterHead](https://muratteke.com/wp-content/uploads/2023/11/sqae.jpg)
+![MasterHead](https://muratteke.com/wp-content/uploads/2023/11/sqae.jpg)
 
 <h1 align="center">Hi 👋, I'm Murat Teke</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer from Turkey</h3>
